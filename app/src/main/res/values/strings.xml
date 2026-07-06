@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">firebase</string>
+    <string name="label_temperatura">Temperatura</string>
+    <string name="label_humedad">Humedad</string>
+    <string name="label_presion">Presión</string>
+    <string name="label_velocidad">Velocidad</string>
+    <string name="default_value">--</string>
+    <string name="title_monitor">Monitoreo en tiempo real</string>
+    <string name="title_seteo">Seteo de Sensores</string>
+    <string name="btn_set">Set</string>
+</resources>
